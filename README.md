@@ -53,3 +53,39 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/Jaykumar026/sonic-immersion-project.git
+
+## 🧠 What I Learned
+
+Through this project, I explored:
+
+- Building interfaces with React and TypeScript
+- Creating responsive layouts with Tailwind CSS
+- Working with reusable UI components
+- Structuring a modern frontend project
+- Designing interactive web experiences
+
+## 🚧 Project Status
+
+**Work in Progress**
+
+The project is currently under development, with new features and improvements planned for future updates.
+
+## 🔮 Future Improvements
+
+- Improve audio interactions
+- Add more immersive visual effects
+- Enhance accessibility
+- Improve mobile experience
+- Add additional interactive features
+- Optimize overall performance
+
+## 👨‍💻 Author
+
+**Jay Kumar**
+
+B.Tech CSE | Microsoft IEP | Software Development Enthusiast
+
+GitHub: [@Jaykumar026](https://github.com/Jaykumar026)
+---
+
+⭐ If you find this project interesting, consider giving it a star!
