@@ -37,3 +37,19 @@ sonic-immersion-project/
 ├── tsconfig.json
 ├── vite.config.ts
 └── README.md
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Make sure you have installed:
+
+- Node.js
+- npm
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Jaykumar026/sonic-immersion-project.git
